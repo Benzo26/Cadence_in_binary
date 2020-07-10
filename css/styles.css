@@ -1,8 +1,6 @@
-.boxmodel{
-    border: 12px;
-    padding: 47px;
-    margin-left: 278px;
-    margin-right: 278px;
-    margin-top: 20px;
-    margin-bottom: 20px;
+img{
+    float: right;
+}
+body{
+    background-color: aquamarine;
 }
