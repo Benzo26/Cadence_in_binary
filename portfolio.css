@@ -1,3 +1,12 @@
 h1{
     text-align: center;
 }
+.color{
+    color: blue;
+}
+.grey{
+    color: red;
+}
+.yellow{
+    color: salmon;
+}
