@@ -1,6 +1,13 @@
 img{
-    float: right;
+    float: left;
 }
 body{
     background-color: aquamarine;
+}
+.absolute {
+    position: absolute;
+    top: 20px;
+    right: 10px;
+    left: 850px;
+
 }
